@@ -8,6 +8,15 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-22c55e?style=for-the-badge)](LICENSE)
 [![Media](https://img.shields.io/badge/Media-photo%20%2B%20video-f97316?style=for-the-badge)](references/README.en.md)
 
+## 📚 Documentation / 文档
+
+先从双语文档开始：
+
+- [中文文档](https://github.com/wp2463496/travel-video-auto-editor/blob/main/references/README.zh-CN.md)
+- [English documentation](https://github.com/wp2463496/travel-video-auto-editor/blob/main/references/README.en.md)
+
+本地路径： [中文](references/README.zh-CN.md) · [English](references/README.en.md)
+
 ## What it does
 
 Travel Video Auto Editor is a reproducible editing brain for travel content. It inspects real media metadata instead of guessing from filenames, turns a messy folder into a structured edit manifest, and leaves the final renderer replaceable.
@@ -95,10 +104,8 @@ The manifest is the contract. Renderers can change without changing analysis or 
 
 The workflow supports short excerpts selected from in-platform music libraries. It records the platform, track ID, excerpt range, territory, and publishing context. It does not scrape chart pages or bypass platform access controls. Availability can depend on the account, region, and publishing surface; the adapter should preserve the platform context when creating a native project.
 
-## Documentation
+## Project references
 
-- [中文文档](references/README.zh-CN.md)
-- [English documentation](references/README.en.md)
 - [Skill instructions](SKILL.md)
 - [Manifest schema](references/manifest-schema.md)
 - [Jianying / CapCut adapter guide](references/jianying-adapter.md)
