@@ -15,8 +15,6 @@
 - [中文文档](https://github.com/wp2463496/travel-video-auto-editor/blob/main/references/README.zh-CN.md)
 - [English documentation](https://github.com/wp2463496/travel-video-auto-editor/blob/main/references/README.en.md)
 
-本地路径： [中文](references/README.zh-CN.md) · [English](references/README.en.md)
-
 ## What it does
 
 Travel Video Auto Editor is a reproducible editing brain for travel content. It inspects real media metadata instead of guessing from filenames, turns a messy folder into a structured edit manifest, and leaves the final renderer replaceable.
