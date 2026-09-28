@@ -1,0 +1,4 @@
+interface:
+  display_name: Travel Video Auto Editor
+  short_description: Analyze travel media and build edit manifests
+  default_prompt: Analyze the selected travel media folder, choose the dominant aspect ratio, and create a bilingual edit manifest using platform-cleared, user-supplied, or licensed audio.
